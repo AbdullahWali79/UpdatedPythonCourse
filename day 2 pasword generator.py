@@ -1,0 +1,5 @@
+print("WELOCOME TO PASGEN")
+city=input("which is your city?")
+pet=input("which is your pet?")
+print("you have sucessfully generated the pasword you are genious")
+print("your pasword is: " + city + pet)
